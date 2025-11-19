@@ -1,0 +1,6 @@
+PORT=4000
+MONGODB_URI=mongodb+srv://workwitharyanj_db_user:admin%40123@cluster0.jydbk56.mongodb.net/oda?retryWrites=true&w=majority&appName=ODA
+JWT_SECRET=dev_local_jwt_secret_change_me
+CRYPTO_SECRET=dev_local_crypto_secret_32_chars_min____
+COOKIE_SECURE=false
+CORS_ORIGIN=http://localhost:5173
